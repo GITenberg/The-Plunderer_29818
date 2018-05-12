@@ -1,0 +1,44 @@
+_repo: The-Plunderer_29818
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Duer, Douglas
+    birthdate: 1887
+    deathdate: 1964
+    gutenberg_agent_id: '8878'
+    url: http://www.gutenberg.org/2009/agents/8878
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Norton, Roy
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '34062'
+    url: http://www.gutenberg.org/2009/agents/34062
+description: Bill Matthews heads West with his partner, Dick Townsend, to take charge
+  of their mine, the Croix D'Or, but upon their arrival in the mining town of Goldpan,
+  they discover that several rivals have been attempting to seize control of the mine.
+  Unknown to both owners, Bully Presby, who owns the adjacent property, is tapping
+  a low level of the mine and promoting a strike among the miners. After Dick and
+  Joan Presby, Bully's daughter, fall in love, however, Joan forces her father to
+  confess his plundering, refund the money and leave the Croix D'Or owners in peace.
+  Meanwhile, Bill gives his heart to dance hall owner Lily Meredith, who, ashamed
+  of her profession, vanishes from the mining camp. Undaunted, Bill departs Goldpan
+  determined to find and marry her.
+gutenberg_issued: '2009-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29818'
+  lccn: '12015814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Miners -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+title: The Plunderer
+url: http://www.gutenberg.org/ebooks/29818
